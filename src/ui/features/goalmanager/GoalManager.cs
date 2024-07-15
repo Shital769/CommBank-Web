@@ -136,10 +136,6 @@ export function GoalManager(props: Props) {
     }
   }
 
-  
-
-
-
   return (
     <>
 
